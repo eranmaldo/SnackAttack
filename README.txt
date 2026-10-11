@@ -1,4 +1,4 @@
-SNACK ATTACK v1.1.0 — OFFLINE IPHONE SALES TRACKER
+SNACK ATTACK v1.2.0 — OFFLINE IPHONE SALES TRACKER
 Includes automatic update detection and a user-controlled Restart to update banner.
 
 UPLOAD TO GITHUB PAGES
@@ -28,3 +28,5 @@ SAFETY
 Sales records remain in local IndexedDB; updates do not intentionally modify the database.
 Always export a JSON backup before major updates.
 Offline updates require internet temporarily to download new app files.
+
+V1.2: New product emoji field begins empty; placeholder is an example only. If left blank, default popcorn emoji is saved. Existing products retain their emoji.
